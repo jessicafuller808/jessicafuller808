@@ -4,7 +4,7 @@ Hi 👋 My name is Jessica Fuller
 Web Developer with keen interest in UI / UX
 --------------------------------------------------
 
-I have 2 years experience building websites with HTML, CSS, JavaScript and React. Design focused user experience is an interest I have started integrating in projects (currently learning). Accessibility and making the web easier for everyone to use is important to me. This GitHub is mainly to serve as a place for me to experiment and implement the skills I learn while allowing the designer side to get reps in 🎨👩🏼‍🎨
+I have 2 years experience building websites with HTML, CSS, JavaScript and React. Design focused user experience is an interest I have started integrating in projects (currently learning). Accessibility and making the web easier for everyone to use is important to me. This GitHub is mainly to serve as a place to experiment and practice the skills I learn while allowing the designer side to get reps in 🎨👩🏼‍🎨
 
 * 🌍  Based in Washington State
 * ✉️  You can contact me at [jessicanfuller808@gmail.com](mailto:jessicanfuller808@gmail.com)
