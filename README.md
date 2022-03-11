@@ -9,7 +9,7 @@ I have 2 years experience building websites with HTML, CSS, JavaScript and React
 * 🌍  Based in Washington State
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
 * 🧠  Learning advanced Javascript, React, UI / UX
-* 🤝  Open to collaborating on a variety of projects, run it by me :)
+* 🤝  Open to collaborating on a variety of projects
 * ⚡  I love bass guitar 🎸
 
 <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer"><img
