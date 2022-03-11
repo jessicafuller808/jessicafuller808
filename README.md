@@ -1,15 +1,15 @@
 Hi 👋 My name is Jessica Fuller
 ===============================
 
-Web Developer with keen interest in UI / UX Design
+Web Developer with keen interest in UI / UX
 --------------------------------------------------
 
-After spending 2 years learning HTML, CSS, & JavaScript I developed a passion for building websites. Recently, I discovered an inclination toward design and how to best present a site to a user. I'm also very interested in accessibility and making the web easier for everyone to use.
+I have 2 years experience building websites with HTML, CSS, JavaScript and React. Design focused user experience is an interest I have started integrating in projects (currently learning). Accessibility and making the web easier for everyone to use is important to me. This GitHub is mainly to serve as a place for me to experiment and implement the skills I learn while allowing the designer side to get reps in 🎨👩🏼‍🎨
 
-* 🌍  I'm based in Washington State
+* 🌍  Based in Washington State
 * ✉️  You can contact me at [jessicanfuller808@gmail.com](mailto:jessicanfuller808@gmail.com)
-* 🧠  I'm learning advanced Javascript, React, UI / UX
-* 🤝  I'm open to collaborating on any and everything, run it by me :)
+* 🧠  Learning advanced Javascript, React, UI / UX
+* 🤝  Open to collaborating on a variety of projects, run it by me :)
 * ⚡  I love bass guitar 🎸
 
 <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer"><img
