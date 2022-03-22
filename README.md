@@ -1,7 +1,7 @@
 Hi 👋 My name is Jessica Fuller
 ===============================
 
-Web Developer with keen interest in UI / UX
+Web Developer with a dash of UI / UX
 --------------------------------------------------
 
 2 years ago, I made a career switch from Personal Training and began a journey into Web Development. My experience includes building websites with HTML, CSS, JavaScript and React. Design and user experience are also huge interests and I'm currently integrating both into projects. Accessibility and making the web easier for everyone to use is important to me. This GitHub is mainly to serve as a place to experiment and practice the skills I learn while allowing the designer side to get reps in 🎨👩🏼‍🎨
