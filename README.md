@@ -6,7 +6,7 @@ Web Developer with a dash of UI / UX
 
 2 years ago, I made a career switch and began a journey into Web Development. 
 
-My experience includes building websites with HTML, CSS, JavaScript and React. 
+My experience includes building websites with HTML, CSS, JavaScript, Next.js and React. 
 
 Design and user experience are also huge interests and I'm currently integrating both into projects. Accessibility and making the web easier for everyone to use is important to me!
 
