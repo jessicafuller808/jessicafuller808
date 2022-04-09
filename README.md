@@ -4,7 +4,7 @@ Hi 👋 My name is Jessica Fuller
 Web Developer with a dash of UI / UX
 --------------------------------------------------
 
-2 years ago, I switched careers and began my journey into Web Development 🙌🏽
+2 years ago, I switched careers and began my journey into Web Development 💻
 
 My experience includes building websites with HTML, CSS, JavaScript, Next.js and React. 
 
