@@ -8,7 +8,7 @@ Web Developer with a dash of UI / UX
 
 My experience includes building websites with HTML, CSS, JavaScript, Next.js and React. 
 
-Design and user experience are also huge interests and I'm currently integrating both into projects. Accessibility and making the web easier for everyone to use is important to me!
+Design and user experience are also huge interests and I'm currently integrating both into projects. Accessibility and making the web easier for everyone to use is important to me.
 
 This GitHub is mainly to serve as a place to experiment and practice the skills I learn whilst allowing the designer side to get reps in 🎨👩🏼‍🎨
 
