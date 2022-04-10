@@ -4,13 +4,13 @@ Hi 👋 My name is Jessica Fuller
 Web Developer with a dash of UI / UX
 --------------------------------------------------
 
-2 years ago, I switched careers and began my journey into Web Development 💻
+This GitHub is mainly to serve as a place to experiment and practice the skills I learn
+(whilst allowing the designer side to get reps in 🎨👩🏼‍🎨).
 
 My experience includes building websites with HTML, CSS, JavaScript, Next.js and React. 
 
-Design and user experience are also huge interests and I'm currently integrating both into projects. Accessibility and making the web easier for everyone to use is important to me.
+Accessibility and making the web easier for everyone to use is important to me.
 
-This GitHub is mainly to serve as a place to experiment and practice the skills I learn whilst allowing the designer side to get reps in 🎨👩🏼‍🎨
 
 * 🌍  Based in Washington State
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
