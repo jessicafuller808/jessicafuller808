@@ -4,7 +4,7 @@ Hi 👋 My name is Jessica Fuller
 Web Developer with a dash of UI / UX
 --------------------------------------------------
 
-This GitHub is mainly to serve as a place to experiment and practice the skills I learn
+This GitHub is mainly to serve as a place to experiment and practice the skills I learn <br>
 (whilst allowing the designer side to get reps in 🎨👩🏼‍🎨).
 
 My experience includes building websites with HTML, CSS, JavaScript, Next.js and React. 
