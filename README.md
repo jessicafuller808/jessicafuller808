@@ -1,4 +1,4 @@
-Hi 👋 My name is Jessica Fuller
+Hi 👋 my name is Jessica Fuller
 ===============================
 
 Web Developer with a dash of UI / UX
