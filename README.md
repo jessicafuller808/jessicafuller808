@@ -1,7 +1,7 @@
 Hi 👋 my name is Jessica Fuller
 ===============================
 
-Web Developer with a dash of UI / UX
+I'm a Web Developer with an eye for UI / UX
 --------------------------------------------------
 
 This GitHub is mainly to serve as a place to experiment and practice the skills I learn <br>
