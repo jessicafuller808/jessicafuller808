@@ -13,7 +13,7 @@ My experience includes building websites with HTML, CSS, JavaScript, Next.js and
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
 * 🧠  Working on advanced Javascript, React, Next.js, UI / UX
 * 🤝  Open to collaborating on a variety of projects
-* ⚡  I love bass guitar 🎸 and weight training 🏋🏽‍♀️
+* ⚡  I love bass guitar 🎸 and weight lifting 🏋🏽‍♀️
 
 <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/lift_eat_code?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
