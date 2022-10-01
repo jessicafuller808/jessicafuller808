@@ -11,7 +11,7 @@ My experience includes building websites with HTML, CSS, JavaScript, Next.js and
 
 * 🌍  Based in Washington State
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
-* 🧠  Working on advanced Javascript, React, Next.js, UI / UX
+* 🧠  Working on Wordpress, Javascript, React, Next.js, MongoDB, UI / UX
 * 🤝  Open to collaborating on a variety of projects
 * ⚡  I love bass guitar 🎸 and weight lifting 🏋🏽‍♀️
 
