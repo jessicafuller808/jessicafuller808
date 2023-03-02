@@ -1,14 +1,14 @@
 Hi 👋 I'm Jessica Fuller
 ===============================
 
-A Fullstack Developer who's fascinated with UI design. 
+A Fullstack Developer who's fascinated by building apps that add value to people's lives. 
 --------------------------------------------------
 
 This GitHub is mainly to serve as a place to experiment and practice the skills I learn.
 
 * 🌍  Based in Washington State
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
-* 🧠  Working on Wordpress, Javascript, React, Express.js, MongoDB, UI / UX
+* 🧠  Working on Javascript, React, Express.js, MongoDB, Angular, WordPress
 * 🤝  Open to collaborating on a variety of projects
 * ⚡  I love bass guitar 🎸 and weight lifting 🏋🏽‍♀️
 
