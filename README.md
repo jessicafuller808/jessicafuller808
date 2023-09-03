@@ -1,7 +1,7 @@
 Hi 👋 I'm Jessica Fuller
 ===============================
 
-A Fullstack Developer who's fascinated by building apps that add value to people's lives. 
+A Fullstack Developer who's fascinated by all things tech. 
 --------------------------------------------------
 
 This GitHub is mainly to serve as a place to experiment and practice the skills I learn.
