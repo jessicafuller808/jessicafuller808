@@ -8,7 +8,7 @@ This GitHub is mainly to serve as a place to experiment and practice the skills 
 
 * 🌍  Based in Washington State
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
-* 🧠  Working on Javascript, React, Express.js, MongoDB
+* 🧠  Working on Javascript, React, Express.js, MongoDB, SQL, Python
 * 🤝  Open to collaborating
 * ⚡  I love bass guitar 🎸 and weight lifting 🏋🏽‍♀️
 
