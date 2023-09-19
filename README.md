@@ -1,10 +1,10 @@
 Hi 👋 I'm Jessica Fuller
 ===============================
 
-A Fullstack Developer who's fascinated by web security. 
+A Fullstack Developer who's fascinated by web security and building safer sites. 
 --------------------------------------------------
 
-This GitHub is mainly to serve as a place to experiment and practice the skills I learn.
+This GitHub is mainly to serve as a place to experiment and practice the skills I learn in various projects.
 
 * 🌍  Based in Washington State
 * ✉️  You can contact me at <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer">[Twitter: @lift_eat_code]</a>
