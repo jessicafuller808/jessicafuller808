@@ -24,8 +24,3 @@ src="https://img.shields.io/twitter/follow/lift_eat_code?logo=twitter&style=for-
 <a href="https://www.twitter.com/lift_eat_code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-
-<!---
-jessicafuller808/jessicafuller808 is a ✨ special ✨ repo because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. .
---->
